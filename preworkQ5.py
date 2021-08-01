@@ -7,4 +7,7 @@ a_list = input("a list")
 if input == str(range(1,100,1)):
       print ("is consecutive")
 else input != str(range(1,100,1)):
-      print ("not consecutive")
+      print ("this is not consecutive")
+
+
+print("remove me later")
